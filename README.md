@@ -1,5 +1,5 @@
 # common_language_effect_size
-common language effect size calculation for matlab
+simple common language effect size calculation for matlab
 
 as explained by Karl L. Wuensch:
 http://core.ecu.edu/psyc/wuenschk/docs30/CL.pdf
